@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register dynamic user, unix by email and edit profile to complete the data</description>
+   <name>00_01.Register_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08f80154-90b0-4c55-9894-cbd66354e95e</testCaseGuid>
+</TestCaseEntity>

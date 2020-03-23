@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit for existing user</description>
+   <name>02_01.EditProfile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2093412-5e62-42b0-8a73-ab1f0f94b73c</testCaseGuid>
+</TestCaseEntity>
